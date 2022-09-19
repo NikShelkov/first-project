@@ -229,6 +229,8 @@ div {
 
 
 
+
+
 .video {
   margin-top: 100px;
   width: 100%;
@@ -256,6 +258,8 @@ div {
 
 
 
+
+
 .oakley {
   width: 100%;
   background-color: #f2f2f2;
@@ -273,6 +277,9 @@ div {
 .two-columns__paragraph_position {
   margin: 0;
 }
+
+
+
 
 
 
@@ -330,6 +337,8 @@ div {
 
 
 
+
+
 .digits {
   margin-top: 100px;
   display: flex;
@@ -371,6 +380,8 @@ div {
   font-weight: normal;
   margin-top: 20px;
 }
+
+
 
 
 
@@ -441,9 +452,6 @@ div {
   color: #2f80ed;
   text-decoration: none;
 }
-
-
-
 
 
 
@@ -595,28 +603,6 @@ div {
   flex-direction: column;
   margin-bottom: 16px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .footer__column-link {
   display: flex;
